@@ -1,0 +1,41 @@
+title,link,cited,relatedLink,position,numOfVersions,publishedData,snippet
+Sales forecasting using time series and neural networks,https://www.sciencedirect.com/science/article/pii/0360835296001660,Cited by 81,"https://scholar.google.com/scholar?q=related:7JCWxQJhJaoJ:scholar.google.com/&scioq=Sales+Forecasting+using+Arima&hl=en&as_sdt=0,5",1,All 7 versions,"AP Ansuj, ME Camargo, R Radharamanan… - Computers & Industrial …, 1996 - Elsevier","… The mean absolute error of the forecast was 7.6486 and that of the ARIMA model with … The sales
+time series presented a marked seasonality for which it was necessary to use 12 binary … neural
+network was superior to ARIMA model, in adjustment as well as in forecasting for the … 
+"
+Performance of state space and ARIMA models for consumer retail sales forecasting,https://www.sciencedirect.com/science/article/pii/S0736584515000137,Cited by 125,"https://scholar.google.com/scholar?q=related:mKbNUrt_870J:scholar.google.com/&scioq=Sales+Forecasting+using+Arima&hl=en&as_sdt=0,5",2,All 7 versions,"P Ramos, N Santos, R Rebelo - Robotics and computer-integrated …, 2015 - Elsevier","… recessions, high interest rates and high unemployment) ANNs outperform the linear methods
+and multi-step forecasts may be … regression models may not always be robust; (3) trigonometric
+models are not useful in aggregate retail sales forecasting … [8] forecast women's apparel … 
+"
+Forecasting commercial rental values using ARIMA models,https://www.emerald.com/insight/content/doi/10.1108/14635789510147801/full/html,Cited by 81,"https://scholar.google.com/scholar?q=related:qvT2-CoFOt4J:scholar.google.com/&scioq=Sales+Forecasting+using+Arima&hl=en&as_sdt=0,5",3,All 3 versions,"T McGough, S Tsolacos - Journal of Property Valuation and …, 1995 - emerald.com","… The effect of retail sales volume on retail rents seemed to vary significantly between towns of
+different size, with the most significant effect registered in the … Using these models, it is possible
+to forecast the next period ahead and thus examine the forecasting performance of … 
+"
+Forecasting of demand using ARIMA model,https://journals.sagepub.com/doi/abs/10.1177/1847979018808673,Cited by 40,"https://scholar.google.com/scholar?q=related:iws59u41l18J:scholar.google.com/&scioq=Sales+Forecasting+using+Arima&hl=en&as_sdt=0,5",4,All 3 versions,"J Fattah, L Ezzine, Z Aman… - International …, 2018 - journals.sagepub.com","… Forecasting of demand using ARIMA model. Jamal Fattah, Latifa Ezzine, Zineb Aman, Haj
+El Moussami, and Abdeslam Lachhab. International Journal of Engineering Business
+Management 2018 10.1177/1847979018808673. Download Citation … 
+"
+Annual Automobile Sales Prediction Using ARIMA Model,http://gvpress.com/journals/IJHIT/vol10_no6/2.pdf,Cited by 8,"https://scholar.google.com/scholar?q=related:gFhELJ_QG90J:scholar.google.com/&scioq=Sales+Forecasting+using+Arima&hl=en&as_sdt=0,5",5,All 2 versions,"SP Shakti, MK Hassan, Y Zhenning… - International Journal of …, 2017 - gvpress.com","… Forecasting: Produce out of sample forecasts or set aside last few data points for in- sample
+forecasting … But as of now ARIMA model is more suitable for sales forecast for the static time series
+data … [8] Thiesing and Vornberger, “Sales forecasting using neural networks”, Proc … 
+"
+A comparative study of linear and nonlinear models for aggregate retail sales forecasting,https://www.sciencedirect.com/science/article/pii/S0925527303000689,Cited by 223,"https://scholar.google.com/scholar?q=related:zYzqc8Uhz7UJ:scholar.google.com/&scioq=Sales+Forecasting+using+Arima&hl=en&as_sdt=0,5",6,All 6 versions,"CW Chu, GP Zhang - International Journal of production economics, 2003 - Elsevier","… Since the retail sales time series presents a clear increasing seasonality, the natural log … To see
+the effect of seasonal adjustment on the forecasting performance of neural networks … the
+nonseasonal data are transformed back to original scale using the forecast seasonal indices … 
+"
+Time series forecasting using a hybrid ARIMA and neural network model,https://www.sciencedirect.com/science/article/pii/S0925231201007020,Cited by 3054,"https://scholar.google.com/scholar?q=related:p6swfifUSTEJ:scholar.google.com/&scioq=Sales+Forecasting+using+Arima&hl=en&as_sdt=0,5",7,All 4 versions,"GP Zhang - Neurocomputing, 2003 - Elsevier","… [21] presented a hybrid econometric and ANN approach for sales forecasting … Denote the forecast
+from (7) as N ̂ t , the combined forecast will be(8) y ̂ t = L … by using different models and then
+combine the forecasts to improve the overall modeling and forecasting performance … 
+"
+Forecasting of raw material needed for plastic products based in income data using ARIMA method,https://ieeexplore.ieee.org/abstract/document/8328777/,Cited by 12,"https://scholar.google.com/scholar?q=related:32gNVYl2gF4J:scholar.google.com/&scioq=Sales+Forecasting+using+Arima&hl=en&as_sdt=0,5",8,,"B Siregar, EB Nababan, A Yap… - 2017 5th International …, 2017 - ieeexplore.ieee.org","… data. In this case the authors will forecast the sale of plastic production by using ARIMA
+Box-Jenkins method for 2015 forecasting. The data used is the sales data of plastic
+factory production in Bandung from 2012 to 2014. This … 
+"
+"Predicting housing sales in Turkey using ARIMA, LSTM and hybrid models",https://journals.vgtu.lt/index.php/JBEM/article/view/10190,Cited by 9,"https://scholar.google.com/scholar?q=related:lpnkptcbHhAJ:scholar.google.com/&scioq=Sales+Forecasting+using+Arima&hl=en&as_sdt=0,5",9,All 3 versions,"AS Temür, M Akgün, G Temür - Journal of Business Economics and …, 2019 - journals.vgtu.lt","… the role of forests in firewood production in Greece, predicted the future situation of the sale prices
+of … For this reason, hybrid models are recognized as the most successful models of forecasting
+tasks … Predicting housing sales in turkey using ARIMA, LSTM and hybrid models … 
+"
+A hybrid neural network model for sales forecasting based on ARIMA and search popularity of article titles,https://www.hindawi.com/journals/cin/2016/9656453/abs/,Cited by 19,"https://scholar.google.com/scholar?q=related:8-eQRUh4WcsJ:scholar.google.com/&scioq=Sales+Forecasting+using+Arima&hl=en&as_sdt=0,5",10,All 10 versions,"H Omar, VH Hoang, DR Liu - Computational intelligence and …, 2016 - hindawi.com","… to derive the normalized numbers of sold items during the processing of various forecasting
+methods … popularity scores by dividing the store sales over the maximum of all store sales and
+the … The following equation shows how to normalize the store sale (the number of sold items … 
+"
